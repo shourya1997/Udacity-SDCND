@@ -1,23 +1,10 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
----
-
 **Finding Lane Lines on the Road**
-
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
-
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./examples/lanesLines_thirdPass.jpg "Lane Lines Extrapolated"
-
+![image1]: [./examples/grayscale.jpg] "Grayscale"
 ---
 
 ### Reflection
@@ -42,9 +29,9 @@ I modified the `draw_lines()` function using the hint given, in the following wa
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![image3]: ./test_images/solidYellowCurveDetected.jpg
+![image3]: [./test_images/solidYellowCurveDetected.jpg]
 
-![image4]: ./test/solidWhiteRightLaneDetected.png
+![image4]: [./test/solidWhiteRightLaneDetected.png]
 
 
 ### 2. Shortcomings with your current pipeline
