@@ -27,7 +27,7 @@ I modified the `draw_lines()` function using the hint given, in the following wa
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![image3](./test_images/solidYellowCurveDetected.jpg)
+![image3](./test_images/solidYellowCurveLaneDetected.jpg)
 
 ![image4](./test/solidWhiteRightLaneDetected.png)
 
